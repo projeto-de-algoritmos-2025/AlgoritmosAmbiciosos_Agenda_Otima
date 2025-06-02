@@ -14,9 +14,14 @@ O objetivo principal deste projeto é criar uma ferramenta inteligente de gerenc
 
 ## Screenshots
 
-![Agenda](./assets/agenda.png)
 
-![Conflito](./assets/conflito.png)
+- Exemplo do slide do professor:
+    ![Exemplo](./assets/image.png)
+
+- Exemplo na Aplicação:
+    ![Agenda](./assets/agenda.png)
+
+    ![Conflito](./assets/conflito.png)
 
 ## Instalação 
 **Linguagem**: JavaScript, HTML e CSS<br>
