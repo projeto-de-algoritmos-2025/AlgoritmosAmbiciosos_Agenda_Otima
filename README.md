@@ -1,18 +1,4 @@
-**!! Atenção: Renomeie o seu repositório para (AlgoritmosAmbiciosos)_(NomeDoProjeto). !!** 
-
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
+# AlgoritmosAmbiciosos_Agenda_Otima
 
 **Número da Lista**: 3<br>
 **Conteúdo da Disciplina**: Algoritmos Ambiciosos<br>
@@ -24,21 +10,39 @@ Temas:
 | 22/2022000 |  Milena Fernandes Rocha|
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O objetivo principal deste projeto é criar uma ferramenta inteligente de gerenciamento de agenda que ajude o usuário a maximizar sua participação em eventos. Em vez de simplesmente listar compromissos, a aplicação analisa todos os eventos inseridos e, de forma automática, constrói a melhor agenda possível para evitar sobreposições de horários. O algoritmo ambicioso usado foi o Interval Scheduling, onde ordenamos de forma crescente pelo horário de término. 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+![Agenda](./assets/agenda.png)
+
+![Conflito](./assets/conflito.png)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: JavaScript, HTML e CSS<br>
+**Link para Testar a Aplicação**: https://projeto-de-algoritmos-2025.github.io/Greed_Agenda_Otima/
+
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+- Acesse o [link](https://projeto-de-algoritmos-2025.github.io/Greed_Agenda_Otima/) 
+- Preencha um formulário simples com o nome do evento, a data, a hora de início e a hora de fim.
+- Ao clicar em "Adicionar Evento", um objeto de evento é criado com um ID único (baseado na data e hora atuais) e as informações fornecidas.
+-  Depois veja sua Agenda Ideal para aproveitar o maior número de eventos possivéis.
+
+## Link do Vídeo
+
+<div align="center">
+
+[![Assista ao vídeo](https://img.youtube.com/vi/0PBQDbMzL10/0.jpg)](https://youtu.be/0PBQDbMzL10)
+
+**Fonte:** [Milena Rocha](https://github.com/milenafrocha) e [Ingrid Alves](https://github.com/alvesingrid)
+Disponível em: [https://youtu.be/0PBQDbMzL10](https://youtu.be/0PBQDbMzL10)
+Acesso em: 30 de maio. 2025.
+
+</div>
+
+---
 
 
 
