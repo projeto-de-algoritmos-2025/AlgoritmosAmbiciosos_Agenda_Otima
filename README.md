@@ -1,4 +1,4 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+**!! Atenção: Renomeie o seu repositório para (AlgoritmosAmbiciosos)_(NomeDoProjeto). !!** 
 
 Temas:
  - Grafos1
@@ -14,14 +14,14 @@ Temas:
 
 # NomedoProjeto
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 3<br>
+**Conteúdo da Disciplina**: Algoritmos Ambiciosos<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/2045348  |  Ingrid Alves Rocha |
+| 22/2022000 |  Milena Fernandes Rocha|
 
 ## Sobre 
 Descreva os objetivos do seu projeto e como ele funciona. 
