@@ -16,12 +16,15 @@ O objetivo principal deste projeto é criar uma ferramenta inteligente de gerenc
 
 
 - Exemplo do slide do professor:
-    ![Exemplo](./assets/image.png)
+    ![Exemplo](./assets/slide.png)
 
 - Exemplo na Aplicação:
     ![Agenda](./assets/agenda.png)
 
     ![Conflito](./assets/conflito.png)
+
+- Algoritmo usado no [código](https://github.com/projeto-de-algoritmos-2025/AlgoritmosAmbiciosos_Agenda_Otima/blob/master/script.js)
+  ![codigo](./assets/image.png)
 
 ## Instalação 
 **Linguagem**: JavaScript, HTML e CSS<br>
