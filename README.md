@@ -25,12 +25,12 @@ O objetivo principal deste projeto é criar uma ferramenta inteligente de gerenc
 
 ## Instalação 
 **Linguagem**: JavaScript, HTML e CSS<br>
-**Link para Testar a Aplicação**: https://projeto-de-algoritmos-2025.github.io/Greed_Agenda_Otima/
+**Link para Testar a Aplicação**: https://projeto-de-algoritmos-2025.github.io/AlgoritmosAmbiciosos_Agenda_Otima/
 
 
 ## Uso 
 
-- Acesse o [link](https://projeto-de-algoritmos-2025.github.io/Greed_Agenda_Otima/) 
+- Acesse o [link](https://projeto-de-algoritmos-2025.github.io/AlgoritmosAmbiciosos_Agenda_Otima/) 
 - Preencha um formulário simples com o nome do evento, a data, a hora de início e a hora de fim.
 - Ao clicar em "Adicionar Evento", um objeto de evento é criado com um ID único (baseado na data e hora atuais) e as informações fornecidas.
 -  Depois veja sua Agenda Ideal para aproveitar o maior número de eventos possivéis.
