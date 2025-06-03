@@ -42,10 +42,10 @@ O objetivo principal deste projeto é criar uma ferramenta inteligente de gerenc
 
 <div align="center">
 
-[![Assista ao vídeo](https://img.youtube.com/vi/0PBQDbMzL10/0.jpg)](https://youtu.be/0PBQDbMzL10)
+[![Assista ao vídeo](https://img.youtube.com/vi/0PBQDbMzL10/0.jpg)](https://youtu.be/YerlkggQD64)
 
 **Fonte:** [Milena Rocha](https://github.com/milenafrocha) e [Ingrid Alves](https://github.com/alvesingrid)
-Disponível em: [https://youtu.be/0PBQDbMzL10](https://youtu.be/0PBQDbMzL10)
+Disponível em: [https://youtu.be/YerlkggQD64](https://youtu.be/YerlkggQD64)
 Acesso em: 30 de maio. 2025.
 
 </div>
